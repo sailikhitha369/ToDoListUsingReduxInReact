@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ToDoListUsingReduxInReact/static/css/main.c23709bb.css",
+    "main.js": "/ToDoListUsingReduxInReact/static/js/main.ee27f4e5.js",
+    "index.html": "/ToDoListUsingReduxInReact/index.html",
+    "main.c23709bb.css.map": "/ToDoListUsingReduxInReact/static/css/main.c23709bb.css.map",
+    "main.ee27f4e5.js.map": "/ToDoListUsingReduxInReact/static/js/main.ee27f4e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c23709bb.css",
+    "static/js/main.ee27f4e5.js"
+  ]
+}
